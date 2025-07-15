@@ -15,4 +15,4 @@ test ('Login flow works', async ({page}) => {
     await page.screenshot({path : 'homepage.png'});
 
     
-});
+}); 
